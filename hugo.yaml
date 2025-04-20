@@ -57,7 +57,7 @@ params:
   title: "2Rhythm Profile"
   description: "2Rhythm Profile"
   staticPath: "https://bizshim.github.io/resume/"  # The path to serve the static files from
-  favicon: "/favicon2.png"
+  favicon: "favicon2.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -132,14 +132,14 @@ params:
     title: "Masayuki Shimizu"
     subtitle: "清水 雅之"
     content: "2006年からWEBアプリケーション開発会社（3社）に勤務し、2016年1月からフリーランスとして活動しております。開発分野はWEBアプリケーション（Frontend/Backend）全般、インフラ構築(AWS/Azure/GCP etc.)などをメインに開発を行っています。"
-    image: /images/logo_1.png
+    image: images/logo_1.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "/resume.pdf"
+      url: "resume.pdf"
       download: true
       newPage: false
     socialLinks:
