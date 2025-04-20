@@ -56,7 +56,7 @@ Menus:
 params:
   title: "2Rhythm Profile"
   description: "2Rhythm Profile"
-  # staticPath: ""  # The path to serve the static files from
+  staticPath: "https://bizshim.github.io/resume/"  # The path to serve the static files from
   favicon: "/favicon2.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
